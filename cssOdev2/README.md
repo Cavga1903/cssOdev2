@@ -6,7 +6,7 @@ Bu odev css ile calisma, css kutu modeli tasarimi ve cesitli html etiketleri ice
 
 ---
 
-![Odev gorseli](/../SCR-20230329-vob)
+![Odev gorseli](/cssodev/img/SCR-20230329-vob)
 
 ---
 
